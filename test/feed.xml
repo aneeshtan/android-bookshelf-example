@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FEED>
+
+ <BOOK>
+
+    <ID>1123011</ID>
+
+    <TITLE>06.04. - 12.04.2011</TITLE>
+
+    <THUMBNAIL>http://www.lukaspetrik.cz/filemanager/tmp/billa_thumb.png</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>png</THUMB_EXT>
+
+    <PDF_EXT>jpg</PDF_EXT>
+
+  </BOOK>
+
+ <BOOK>
+
+    <ID>110382010</ID>
+
+    <TITLE>BAZAAR 9/2010</TITLE>
+
+    <THUMBNAIL>http://www.lukaspetrik.cz/reader/bazar_thumb.png</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>png</THUMB_EXT>
+
+  </BOOK>
+
+ <BOOK>
+
+    <ID>110282010</ID>
+
+    <TITLE>SPEED 8/2010</TITLE>
+
+    <THUMBNAIL>http://www.lukaspetrik.cz/reader/speed_thumb2.png</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>png</THUMB_EXT>
+
+  </BOOK>
+
+ <BOOK>
+
+    <ID>444582010</ID>
+
+    <TITLE>Metro</TITLE>
+
+    <THUMBNAIL>http://metro.cz/images/stories/pro_clanky/titulky_pdf/xxl_plzen_1211.jpg</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>82010</ID>
+
+    <TITLE>Metro</TITLE>
+
+    <THUMBNAIL>http://metro.cz/images/stories/pro_clanky/titulky_pdf/xxl_brno_1211.jpg</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>72010</ID>
+
+    <TITLE>TV Guide</TITLE>
+
+    <THUMBNAIL>http://metro.cz/images/stories/pro_clanky/titulky_pdf/tv_guide_2012.jpg</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>62010</ID>
+
+    <TITLE>Zdravi Senioru</TITLE>
+
+    <THUMBNAIL>http://metro.cz/images/stories/pro_clanky/titulky_pdf/zdravi_senioru_1111.jpg</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>52010</ID>
+
+    <TITLE>Letak LIDL</TITLE>
+
+    <THUMBNAIL>http://letaky.najdislevu.cz/lidl/letak3569.jpg</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>20101022</ID>
+
+    <TITLE>Metro 22.Říjen</TITLE>
+
+    <THUMBNAIL>http://metro.cz/plugins/content/multithumb/thumbs/b.150.100.16777215.0.stories.pro_clanky.titulky_pdf.titulka_2210_10.jpg</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>00021103</ID>
+
+    <TITLE>I can see pixels</TITLE>
+
+    <THUMBNAIL>http://www.pdf-mags.com/img/cover/ideafixa_16.png</THUMBNAIL>
+
+    <NEW>TRUE</NEW>
+
+    <THUMB_EXT>png</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>42010</ID>
+
+    <TITLE>Letak NORMA</TITLE>
+
+    <THUMBNAIL>http://letaky.najdislevu.cz/norma/letak3568.jpg</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>32010</ID>
+
+    <TITLE>Letak PENNY</TITLE>
+
+    <THUMBNAIL>http://letaky.najdislevu.cz/penny/letak3566.jpg</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>22010</ID>
+
+    <TITLE>Letak INTERSPAR</TITLE>
+
+    <THUMBNAIL>http://letaky.najdislevu.cz/interspar/letak3565.jpg</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>jpg</THUMB_EXT>
+
+  </BOOK>
+
+  <BOOK>
+
+    <ID>12010</ID>
+
+    <TITLE>Letak MOBELIX</TITLE>
+
+    <THUMBNAIL>http://letaky.najdislevu.cz/moebelix/letak3561.jpg</THUMBNAIL>
+
+    <NEW>FALSE</NEW>
+
+    <THUMB_EXT>gif</THUMB_EXT>
+
+  </BOOK>
+
+</FEED>
+
+
+
